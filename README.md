@@ -7,6 +7,15 @@ An interactive data visualization and enterprise analytics dashboard engineered 
 
 ![Industrial Efficiency Dashboard](Dashboard%202.png)
 
+---------------------------------------------------------------------------------------
+
+![Industrial Efficiency Dashboard](Dashboard%203.png)
+
+---------------------------------------------------------------------------------------
+
+![Industrial Efficiency Dashboard](Dashboard%201.png)
+
+
 ### 1. Unified Operational KPIs
 * Tracks real-time performance indicators such as Total Production Volumes, Defect Rates, Yield Percentages, and Machine Capacity Utilization.
 * Highlights critical baseline drifts across operational targets to flag manufacturing friction early.
@@ -14,6 +23,7 @@ An interactive data visualization and enterprise analytics dashboard engineered 
 ### 2. Machine Performance & Downtime Analysis
 * Segregates machinery run-time efficiencies by production lines, allowing targeted interventions on lagging equipment.
 * Correlates specific maintenance schedules with historical shift logs to map out optimal operating configurations.
+
 
 ### 3. Supply Chain & Inventory Mapping
 * Visualizes material consumption velocities against raw production outputs to manage pipeline inventory.
