@@ -5,6 +5,8 @@ An interactive data visualization and enterprise analytics dashboard engineered 
 
 ## 📈 Dashboard Architecture & Insights
 
+![Industrial Efficiency Dashboard](Dashboard%201.jpg)
+
 ### 1. Unified Operational KPIs
 * Tracks real-time performance indicators such as Total Production Volumes, Defect Rates, Yield Percentages, and Machine Capacity Utilization.
 * Highlights critical baseline drifts across operational targets to flag manufacturing friction early.
