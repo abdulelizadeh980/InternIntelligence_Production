@@ -1,4 +1,4 @@
-# 📊 Production Planning & Industrial Efficiency Dashboard
+# 📊 Production Planning & Industrial Efficiency Dashboard (POWER BI)
 
 ## 📌 Project Overview
 An interactive data visualization and enterprise analytics dashboard engineered in **Power BI** to monitor factory floor efficiency, machine utilization metrics, and manufacturing output. By integrating cross-departmental operations data, this dashboard serves as a central operational command center for production planners, supply chain teams, and plant managers to resolve throughput bottlenecks and audit machinery performance.
@@ -46,7 +46,7 @@ An interactive data visualization and enterprise analytics dashboard engineered 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
-# 🛠️ Machine Predictive Maintenance: End-to-End ML Classification
+# 🛠️ Machine Predictive Maintenance: End-to-End ML Classification (PYTHON)
 
 ## 📌 Project Overview
 This repository contains an end-to-end Machine Learning project developed for **Predictive Maintenance (PdM)** in industrial manufacturing loops. In modern manufacturing environments, unexpected machine failures cause severe downtime losses. This project builds a classification model to proactively predict machine failures and determine the specific root cause of the failure based on real-time sensor metrics (temperatures, rotational speed, torque, and tool wear).
